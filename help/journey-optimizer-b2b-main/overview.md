@@ -1,13 +1,13 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]个Tutorials"
+title: '[!DNL Journey Optimizer B2B Edition] 教程'
 description: 观看有关 [!DNL Journey Optimizer B2B Edition]的视频教程。 帮助您更好地了解如何编排帐户和购买团体历程等。
-source-git-commit: 2e58cb29f758a9255f744c98672320c6b3737612
+exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
+source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
 
 ---
-
 
 # [!DNL Journey Optimizer B2B Edition] 教程
 

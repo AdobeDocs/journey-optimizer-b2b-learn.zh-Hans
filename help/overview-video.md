@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: 了解购买群组的组成部分以及构建帐户历程的基础知识。
 role: Admin, User
 level: Beginner, Intermediate, Experienced
