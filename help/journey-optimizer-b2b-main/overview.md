@@ -2,16 +2,16 @@
 title: '[!DNL Journey Optimizer B2B Edition] 教程'
 description: 观看有关 [!DNL Journey Optimizer B2B Edition]的视频教程。 帮助您更好地了解如何编排帐户和购买团体历程等。
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
+source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # [!DNL Journey Optimizer B2B Edition] 教程
 
-了解如何充分利用[!DNL Journey Optimizer B2B Edition]。 使用内置的创作AI和行业领先的自动化功能编排客户历程和购买团体历程，以最大程度地满足对特定产品的需求。
+了解如何充分利用 [!DNL Journey Optimizer B2B Edition]。使用内置生成式 AI 和行业领先的自动化功能来协调帐户和购买群组历程，以最大限度地满足特定产品的需求。
 
 >[!NOTE]
 >
@@ -19,14 +19,20 @@ ht-degree: 2%
 
 ## 新增功能 {#whats-new}
 
-* [购买团体概述](/help/buying-groups/buying-groups-overview.md)
-  _了解有关购买群组以及如何利用群组的所有信息。_
+* [正在引入帐户历程](/help/account-journeys/introducing-account-journeys.md)
+  _了解有关帐户历程的所有信息，以及如何使用它们吸引目标受众。_
 
-* [创建购买组](/help/buying-groups/create-a-buying-group.md)
-  _了解如何使用帐户受众、角色模板和解决方案兴趣来创建购买群组。_
+* [创建帐户历程](/help/account-journeys/create-an-account-journey.md)
+  _了解如何使用帐户受众、操作节点、侦听节点和拆分路径节点来创建帐户历程。_
 
-* [解决方案兴趣](/help/buying-groups/solution-interest.md)
-  _了解购买团体解决方案的兴趣以及在创建购买团体时如何配置/使用它们。_
+* [操作节点](/help/account-journeys/action-node.md)
+  _了解创建帐户历程时操作节点以及如何配置它们。_
+
+* [侦听节点](/help/account-journeys/listen-node.md)
+  _了解侦听节点以及在创建帐户历程时如何配置侦听节点。_
+
+* [拆分帐户历程](/help/account-journeys/split-account-journey.md)
+  _了解拆分/合并路径节点，以及如何在创建Account历程时配置这些节点。_
 
 ## 最受欢迎视频 {#most-popular-videos}
 
