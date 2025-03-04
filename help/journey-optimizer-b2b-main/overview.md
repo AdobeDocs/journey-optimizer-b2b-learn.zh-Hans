@@ -2,10 +2,10 @@
 title: '[!DNL Journey Optimizer B2B Edition] 教程'
 description: 观看有关 [!DNL Journey Optimizer B2B Edition]的视频教程。 帮助您更好地了解如何编排帐户和购买团体历程等。
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ ht-degree: 17%
 
 ## 新增功能 {#whats-new}
 
-* [正在引入帐户历程](/help/account-journeys/introducing-account-journeys.md)
-  _了解有关帐户历程的所有信息，以及如何使用它们吸引目标受众。_
+* [购买团体阶段](/help/buying-groups/buying-group-stages.md)
+  _了解如何在单个阶段模型中创建多个购买团体生命周期阶段并指定过渡规则。_
 
-* [创建帐户历程](/help/account-journeys/create-an-account-journey.md)
-  _了解如何使用帐户受众、操作节点、侦听节点和拆分路径节点来创建帐户历程。_
+* [收听AEP活动](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _在您的帐户历程中定义和使用任何体验事件。_
 
-* [操作节点](/help/account-journeys/journey-nodes/action-node.md)
-  _了解创建帐户历程时操作节点以及如何配置它们。_
-
-* [侦听节点](/help/account-journeys/journey-nodes/listen-node.md)
-  _了解侦听节点以及在创建帐户历程时如何配置侦听节点。_
-
-* [拆分帐户历程](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _了解拆分/合并路径节点，以及如何在创建Account历程时配置这些节点。_
+* [付费媒体编排](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _了解如何使用历程将人员移动到外部受众，然后可以推送到AEP目标目录中的任何受支持付费媒体目标。_
 
 ## 最受欢迎视频 {#most-popular-videos}
 
