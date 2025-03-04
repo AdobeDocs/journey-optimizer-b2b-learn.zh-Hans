@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] 教程'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] 教程'
 user-guide-description: 了解如何充分利用 [!DNL Journey Optimizer B2B Edition]。 使用内置生成式 AI 和行业领先的自动化功能来协调帐户和购买群组历程，以最大限度地满足特定产品的需求。
-source-git-commit: 04c5bea8e5dfd7ed3af5f93dd2065b59222c0df7
+source-git-commit: dafc46340bb566560c9f3f4db5a9225793c2de62
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 40%
+source-wordcount: '72'
+ht-degree: 43%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 40%
       + [拆分帐户历程](/help/account-journeys/journey-nodes/split-account-journey.md)
 + 购买组{#buying-groups}
    + [购买群组概述](/help/buying-groups/buying-groups-overview.md)
+   + [购买群组阶段](/help/buying-groups/buying-group-stages.md)
    + [创建购买组](/help/buying-groups/create-a-buying-group.md)
    + [角色模板](/help/buying-groups/role-templates.md)
    + [解决方案兴趣](/help/buying-groups/solution-interest.md)
