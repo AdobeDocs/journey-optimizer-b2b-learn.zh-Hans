@@ -2,7 +2,7 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] 教程'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] 教程'
 user-guide-description: 了解如何充分利用 [!DNL Journey Optimizer B2B Edition]。 使用内置生成式 AI 和行业领先的自动化功能来协调帐户和购买群组历程，以最大限度地满足特定产品的需求。
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+source-git-commit: 04c5bea8e5dfd7ed3af5f93dd2065b59222c0df7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 40%
