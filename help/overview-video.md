@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Journey Optimizer B2B Edition]'
-description: 了解购买群组的组成部分以及构建帐户历程的基础知识。
+description: 了解购买群组的组成部分以及生成帐户历程的基础知识。
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
@@ -16,6 +16,6 @@ ht-degree: 100%
 
 # [!DNL Journey Optimizer B2B Edition]
 
-了解购买群组的组成部分以及构建帐户历程的基础知识。
+了解购买群组的组成部分以及生成帐户历程的基础知识。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432054/?learn=on)
