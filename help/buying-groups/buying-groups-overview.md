@@ -20,4 +20,4 @@ ht-degree: 76%
 
 了解有关购买群组的所有信息以及如何利用它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452950/?learn=on&captions=chi_hans)

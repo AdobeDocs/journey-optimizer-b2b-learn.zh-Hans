@@ -20,4 +20,4 @@ ht-degree: 5%
 
 了解购买团体解决方案兴趣以及在创建购买团体时如何配置/使用它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450123/?learn=on&captions=chi_hans)

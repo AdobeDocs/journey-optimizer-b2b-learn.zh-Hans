@@ -22,4 +22,4 @@ ht-degree: 4%
 
 利用此功能，您可以在单个阶段模型中创建多个购买组生命周期阶段，并指定过渡规则。 通过设置这些规则，您将能够完全控制购买组如何从一个阶段移动到另一个阶段。 然后，可以在历程中自动进行舞台过渡，将这些功能组合为一个强大的流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448704/?learn=on&enablevpops&captions=chi_hans)

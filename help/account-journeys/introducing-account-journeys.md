@@ -20,4 +20,4 @@ ht-degree: 0%
 
 全面了解客户历程以及如何使用它们吸引目标受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443217/?learn=on&enablevpops&captions=chi_hans)

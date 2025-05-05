@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解拆分/合并路径节点，以及如何在创建Account历程时配置这些节点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443266/?learn=on&enablevpops&captions=chi_hans)

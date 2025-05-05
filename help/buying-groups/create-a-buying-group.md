@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用客户受众、角色模板和解决方案兴趣来创建购买群组。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451771/?learn=on&captions=chi_hans)

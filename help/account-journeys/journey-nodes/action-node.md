@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解操作节点，以及如何在创建Account历程时配置它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443255/?learn=on&enablevpops&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解侦听节点，以及如何在创建Account历程时配置这些节点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443244/?learn=on&enablevpops&captions=chi_hans)

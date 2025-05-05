@@ -30,4 +30,4 @@ ht-degree: 0%
 
 总之，AJO B2B中的帐户列表是管理和编排基于帐户的营销和客户参与活动的基本元素。 它们使用户能够组织、定位关键客户的营销活动并使其个性化，从而推动有意义的交互和关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448659/?learn=on&enablevpops&captions=chi_hans)

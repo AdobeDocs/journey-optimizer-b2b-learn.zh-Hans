@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解购买团体角色模板，以及如何在创建购买团体时配置/使用模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453311/?learn=on&captions=chi_hans)

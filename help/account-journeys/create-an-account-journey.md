@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用帐户受众、操作节点、侦听节点和拆分路径节点来创建帐户历程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443229/?learn=on&enablevpops&captions=chi_hans)

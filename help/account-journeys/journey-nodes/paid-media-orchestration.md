@@ -30,4 +30,4 @@ ht-degree: 0%
 
 在本视频中，我们将演示使用历程将人员转至外部受众，然后您可以将该受众推送到AEP目标目录中的任何受支持的付费媒体目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448682/?learn=on&enablevpops&captions=chi_hans)
