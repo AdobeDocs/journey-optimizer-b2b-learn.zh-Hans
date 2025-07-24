@@ -24,4 +24,4 @@ ht-degree: 0%
 
 * 在帐户历程中使用AEP事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448693/?learn=on&enablevpops&captions=chi_hans)

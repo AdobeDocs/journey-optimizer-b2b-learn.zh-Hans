@@ -28,4 +28,4 @@ ht-degree: 2%
 
 总之，[!DNL Journey Optimizer B2B Edition]中的帐户列表是管理和编排基于帐户的营销和客户参与活动的基本元素。 利用这些功能，您可以组织、定位关键客户的营销参与并使其个性化，从而推动有意义的交互和关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448659/?learn=on&enablevpops&captions=chi_hans)
