@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何在Journey Optimizer B2B edition中使用Account Qualification Agent。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475849/?captions=chi_hans&learn=on&enablevpops)
