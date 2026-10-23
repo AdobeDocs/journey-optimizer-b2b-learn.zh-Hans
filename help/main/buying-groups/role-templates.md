@@ -37,6 +37,6 @@ ht-degree: 3%
 
 了解购买团体角色模板，以及如何在创建购买团体时配置/使用模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453311/?captions=chi_hans&learn=on)
 
 有关详细信息，请参阅用户指南中的[购买群组角色模板](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。

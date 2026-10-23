@@ -32,6 +32,6 @@ ht-degree: 5%
 
 了解拆分和合并路径节点，以及如何在创建帐户或人员历程时配置这些节点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443266/?captions=chi_hans&learn=on&enablevpops)
 
 有关详细信息，请参阅用户指南中的&#x200B;_[拆分和合并路径](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。

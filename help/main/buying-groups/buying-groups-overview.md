@@ -32,6 +32,6 @@ ht-degree: 34%
 
 了解有关购买群组的所有信息以及如何利用它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452950/?captions=chi_hans&learn=on&enablevpops)
 
 有关详细信息，请参阅用户指南中的&#x200B;_[购买群组](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
