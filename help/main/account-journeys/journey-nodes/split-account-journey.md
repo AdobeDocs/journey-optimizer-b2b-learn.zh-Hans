@@ -49,4 +49,4 @@ ht-degree: 0%
 * 由人员使用人员属性、帐户 — 人员关系属性、购买组成员资格、自定义对象和事件历史记录（具有回顾窗口、频度和不活动筛选）进行拆分。
 * 了解自动关闭拆分路径节点如何让用户返回到帐户历程。
 
-有关详细信息，请参阅用户指南中的&#x200B;_[拆分和合并路径](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。
+有关详细信息，请参阅用户指南中的&#x200B;_[拆分和合并路径](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。

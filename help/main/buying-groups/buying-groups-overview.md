@@ -48,4 +48,4 @@ ht-degree: 1%
 * 查看和更新购买组成员。 手动更新优先于历程操作和系统作业。
 * 使用角色分析可按日期范围过滤，比较各个角色的客户获取和参与度。
 
-有关详细信息，请参阅用户指南中的&#x200B;_[购买群组](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
+有关详细信息，请参阅用户指南中的&#x200B;_[购买群组](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。

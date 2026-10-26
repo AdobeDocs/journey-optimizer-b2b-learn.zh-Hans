@@ -53,4 +53,4 @@ ht-degree: 4%
 * 使用完整性分数设置设置设置每个角色所需的成员数。
 * 发布模板，以便其状态更改为“实时”状态，并且可供解决方案关注者使用。
 
-有关详细信息，请参阅用户指南中的[购买群组角色模板](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。
+有关详细信息，请参阅用户指南中的[购买群组角色模板](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。
