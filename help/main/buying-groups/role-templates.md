@@ -40,7 +40,7 @@ ht-degree: 4%
 
 本教程面向营销人员和管理员，他们将[!DNL Journey Optimizer B2B Edition]用于基于帐户的营销，并希望在每个帐户中定位适当的利益相关者。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453311/?captions=chi_hans&learn=on)
 
 了解如何：
 

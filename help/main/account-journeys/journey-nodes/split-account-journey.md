@@ -35,7 +35,7 @@ ht-degree: 0%
 
 本教程适用于使用[!DNL Journey Optimizer B2B Edition]为不同区段和购买组成员个性化基于帐户的营销历程的营销专业人员和历程设计人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443266/?captions=chi_hans&learn=on&enablevpops)
 
 了解如何：
 
