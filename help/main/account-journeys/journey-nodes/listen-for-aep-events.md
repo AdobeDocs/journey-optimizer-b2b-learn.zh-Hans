@@ -35,5 +35,5 @@ ht-degree: 3%
 
 有关设置要求和说明，请参阅用户指南中的以下页面：
 
-* [选择体验事件和字段](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [侦听事件](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [选择体验事件和字段](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [侦听事件](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
