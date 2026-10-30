@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 相关文档
 
-有关受支持的事件、配置步骤和超时选项，请参阅用户指南](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}中的[侦听事件。
+有关受支持的事件、配置步骤和超时选项，请参阅用户指南[&#128279;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}中的侦听事件。
