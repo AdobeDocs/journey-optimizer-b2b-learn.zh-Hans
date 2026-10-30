@@ -18,7 +18,7 @@ ht-degree: 1%
 
 使用[!DNL Adobe Journey Optimizer B2B Edition]中的操作节点为历程中的帐户或人员定义操作。 比较帐户操作和人员操作，并了解每种历程类型支持哪些操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443255/?captions=chi_hans&quality=12&learn=on)
 
 ## 操作节点要点
 

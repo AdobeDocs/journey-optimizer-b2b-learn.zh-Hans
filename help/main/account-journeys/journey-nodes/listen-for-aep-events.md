@@ -18,7 +18,7 @@ ht-degree: 3%
 
 当发生匹配活动时，使用[!DNL Adobe Experience Platform]体验事件在[!DNL Adobe Journey Optimizer B2B Edition]中推进帐户历程。 了解管理员如何配置事件类型和字段，以及营销人员如何在[!UICONTROL 侦听事件]节点中使用它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448693/?captions=chi_hans&quality=12&learn=on)
 
 ## Experience Event essentials
 

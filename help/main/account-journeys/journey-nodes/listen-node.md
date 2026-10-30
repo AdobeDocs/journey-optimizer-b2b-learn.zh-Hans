@@ -18,7 +18,7 @@ ht-degree: 1%
 
 在[!DNL Adobe Journey Optimizer B2B Edition]中使用[!UICONTROL 侦听事件]节点在事件发生时推进历程。 比较帐户和人员事件，定义匹配条件，并配置超时以控制历程等待的时间。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443244/?captions=chi_hans&quality=12&learn=on)
 
 ## 侦听节点要点
 
