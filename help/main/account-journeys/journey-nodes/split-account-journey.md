@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]中的拆分和合并路径
+title: 拆分和合并路径
 description: 了解如何在Adobe [!DNL Journey Optimizer B2B Edition]中拆分和合并路径以按条件路由帐户或人员、设置路径优先级和处理不匹配的受众。
 keywords: 拆分路径，合并路径， Adobe [!DNL Journey Optimizer B2B Edition]，帐户历程，历程节点，基于帐户的营销， B2B历程编排，购买组准备情况，路径条件，人员拆分，事件历史记录筛选，历程分段
 feature: Account Journeys
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]中的拆分和合并路径
+# 拆分和合并路径
 
 了解如何使用Adobe [!DNL Journey Optimizer B2B Edition]中的拆分和合并路径节点，根据条件通过帐户历程路由帐户或人员。 此视频介绍帐户和人员拆分、路径优先级、默认路径和合并。
 

@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]中的购买群组概述
+title: 在[!DNL Journey Optimizer B2B Edition]中购买群
 description: 了解如何在Adobe [!DNL Journey Optimizer B2B Edition]中创建、管理和评估购买组，从角色模板和解决方案兴趣到准备情况和角色见解。
 keywords: 购买组， Adobe [!DNL Journey Optimizer B2B Edition]，基于帐户的营销， B2B购买组，角色模板，解决方案兴趣，帐户受众，购买组阶段，购买组完整性，角色见解， B2B营销自动化
 feature: Buying Groups
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]中的购买群组概述
+# 在[!DNL Journey Optimizer B2B Edition]中购买群
 
 了解购买组如何在[!DNL Adobe Journey Optimizer B2B Edition]中组织人员做出B2B购买决策。 此视频介绍您需要的组件、如何准备购买组创建作业以及如何评估准备情况。
 

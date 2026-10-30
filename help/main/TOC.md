@@ -3,10 +3,10 @@ user-guide-title: '[!DNL Journey Optimizer B2B Edition] 教程'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] 教程'
 user-guide-description: 了解如何充分利用 [!DNL Journey Optimizer B2B Edition]。 使用内置生成式 AI 和行业领先的自动化功能来协调帐户和购买群组历程，以最大限度地满足特定产品的需求。
 auto-video-transcripts: true
-source-git-commit: 4d3631a3a7a9c5944bb8f3eaa48427b6f9069228
+source-git-commit: fae92807ede9410f62e9a12e485202b72786c16b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 70%
+source-wordcount: '87'
+ht-degree: 58%
 ---
 
 # [!DNL Journey Optimizer B2B Edition] {#tutorials}
@@ -17,11 +17,11 @@ ht-degree: 70%
   + [历程简介](/help/main/account-journeys/introducing-account-journeys.md)
   + [创建帐户历程](/help/main/account-journeys/create-an-account-journey.md)
   + 历程节点 {#journey-nodes}
-    + [操作节点](/help/main/account-journeys/journey-nodes/action-node.md)
-    + [侦听节点](/help/main/account-journeys/journey-nodes/listen-node.md)
-    + [监听AEP活动](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
+    + [执行操作节点](/help/main/account-journeys/journey-nodes/action-node.md)
+    + [侦听事件节点](/help/main/account-journeys/journey-nodes/listen-node.md)
+    + [收听体验事件](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
     + [付费媒体编排](/help/main/account-journeys/journey-nodes/paid-media-orchestration.md)
-    + [拆分和合并路径](/help/main/account-journeys/journey-nodes/split-account-journey.md)
+    + [拆分和合并路径节点](/help/main/account-journeys/journey-nodes/split-account-journey.md)
 + 帐户 {#accounts}
   + [帐户列表](/help/main/accounts/account-lists.md)
 + 购买群组 {#buying-groups}
